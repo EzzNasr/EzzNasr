@@ -1,5 +1,5 @@
 <!--
-  GitHub Profile README — Ezz Nasr
+  GitHub Profile README: Ezz Nasr
   Lives in the repo: github.com/EzzNasr/EzzNasr/README.md
   TODO before pushing: replace the Invoice App V2 repo link placeholder
   (marked below) once you confirm its exact repo name/URL.
@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:238636&height=200&section=header&text=Ezz%20Nasr&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Computer%20Engineering%20Student%20%E2%80%94%20Comms%20%26%20AI&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:238636&height=200&section=header&text=Ezz%20Nasr&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Computer%20Engineering%20Student%2C%20Comms%20%26%20AI&descAlignY=58&descSize=17" width="100%"/>
 
 ### Backend-leaning full-stack developer, embedded systems builder, and hardware designer.
 
@@ -21,16 +21,25 @@
 
 ## About
 
-Third-year Computer Engineering student at Alexandria University, specializing in Computer Communications and Artificial Intelligence, expected to graduate in 2028. I build complete, working software rather than isolated coursework demos — every project below has a public repository (or a documented release) behind it, so the claims here are checkable, not just stated.
+Third-year Computer Engineering student at Alexandria University, specializing in Computer Communications and Artificial Intelligence, expected to graduate in 2028. I build complete, working software rather than isolated coursework demos. Every project below has a public repository or a documented release behind it, so the claims here are checkable, not just stated.
 
-My interests sit at the intersection of **backend engineering**, **embedded systems**, and **hardware design**: I write the software stack (FastAPI/React APIs and databases) as comfortably as I lay out the PCB and firmware underneath it. I also prepare technical documentation in LaTeX — reference material, cookbooks, and formal write-ups  because I'd rather over-document a project than leave it unreadable to the next person.
+My interests sit at the intersection of backend engineering, embedded systems, and hardware design. I write the software stack (FastAPI/React APIs and databases) as comfortably as I lay out the PCB and firmware underneath it. I also prepare technical documentation in LaTeX, including reference material and formal write-ups, because I'd rather over-document a project than leave it unreadable to the next person.
 
 **Current focus**
-- Refactoring Factory ERP for public release (already in live use at a manufacturing business)
+- Accepted into the DEPI Scholarship (Ministry of Education)
+- Refactoring Factory ERP for public release, already in live use at a manufacturing business
+- Studying for the AWS Certified Cloud Practitioner exam, targeting completion around October 2026
 - ICPC-track competitive programming in C++
 - PCB design and embedded firmware (KiCad, ESP32)
 - System design fundamentals
 - German language, toward a Master's in Germany after graduation
+
+<br/>
+
+## Certifications & Programs
+
+- **DEPI Scholarship**, Digital Egypt Pioneers Initiative, Ministry of Education: accepted
+- **AWS Certified Cloud Practitioner**: in progress, target completion around October 2026
 
 <br/>
 
@@ -77,20 +86,20 @@ My interests sit at the intersection of **backend engineering**, **embedded syst
 ## Featured Projects
 
 ### 🏭 Factory ERP
-Full enterprise resource planning system built for a real manufacturing business (~20 employees) — not a class assignment. It's currently in active use at the company; the public repo is on hold until a refactor/cleanup pass is finished.
-- **Scope:** customer & supplier management, inventory tracking, order tracking, invoice generation, financial reporting, employee management, cost analysis, store credit and customer balances
-- **Stack:** FastAPI · React · SQLite · PDF generation
+Full enterprise resource planning system built for a real manufacturing business (about 20 employees), not a class assignment. It's currently in active use at the company. The public repo is on hold until a refactor and cleanup pass is finished.
+- **Scope:** customer and supplier management, inventory tracking, order tracking, invoice generation, financial reporting, employee management, cost analysis, store credit and customer balances
+- **Stack:** FastAPI, React, SQLite, PDF generation
 - **Architecture:** `React → FastAPI → SQLite → PDF Generator`
-- **Status:** feature-complete and in production use · public repo pending refactor
+- **Status:** feature complete and in production use, public repo pending refactor
 
-`Repo: coming soon — currently undergoing cleanup for public release`
+`Repo: coming soon (currently undergoing cleanup for public release)`
 
 ---
 
 ### 🧾 Invoice App V2
-Professional invoice management system, built end to end and shipped with tagged releases. Evolved through three iterations: CLI → desktop GUI → full React + FastAPI web app.
-- **Features:** customer & product databases, retail/wholesale pricing, discounts, taxes, profit calculations, invoice history, PDF export, interactive HTML preview, configuration system
-- **Stack:** FastAPI · React · Vite · SQLite
+Professional invoice management system, built end to end and shipped with tagged releases. Evolved through three iterations: CLI, then a desktop GUI, then a full React + FastAPI web app.
+- **Features:** customer and product databases, retail and wholesale pricing, discounts, taxes, profit calculations, invoice history, PDF export, interactive HTML preview, configuration system
+- **Stack:** FastAPI, React, Vite, SQLite
 - **Status:** complete, published with releases
 
 [`Repo`](https://github.com/EzzNasr/invoice-app-v2) <!-- TODO: confirm exact repo name/URL --> · Earlier CLI/GUI iteration: [`The-invioce-app-`](https://github.com/EzzNasr/The-invioce-app-)
@@ -98,10 +107,10 @@ Professional invoice management system, built end to end and shipped with tagged
 ---
 
 ### 🔐 NFC Smart Lock
-Embedded access-control system, designed hardware-up: schematic and PCB layout in KiCad (star topology), power-path verification in Falstad, ESP32 + PN532 NFC reader driving a servo-actuated lock. Supports authentication via NFC tags, contactless cards, and Apple Pay.
-- **Hardware:** custom, space-efficient PCB designed for concealed installs
-- **Firmware:** C++ on ESP32, interrupt-driven tag reads
-- **Stack:** ESP32 · PN532 NFC · KiCad · Falstad
+Embedded access control system, designed hardware up: schematic and PCB layout in KiCad (star topology), power path verification in Falstad, ESP32 plus a PN532 NFC reader driving a servo actuated lock. Supports authentication via NFC tags, contactless cards, and Apple Pay.
+- **Hardware:** custom, space efficient PCB designed for concealed installs
+- **Firmware:** C++ on ESP32, interrupt driven tag reads
+- **Stack:** ESP32, PN532 NFC, KiCad, Falstad
 
 [`Repo`](https://github.com/EzzNasr/NFC-Door-Lock)
 
@@ -109,20 +118,20 @@ Embedded access-control system, designed hardware-up: schematic and PCB layout i
 
 ### 🧮 Competitive Programming
 Ongoing algorithmic training on the ICPC track, in C++.
-- **Topics:** arrays, strings, sorting/searching, binary search, STL, graphs, trees, dynamic programming, greedy algorithms, number theory, recursion
-- **Context:** trained on C for Data Structures & Algorithms coursework; applying it toward ICPC/ECPC preparation
+- **Topics:** arrays, strings, sorting and searching, binary search, STL, graphs, trees, dynamic programming, greedy algorithms, number theory, recursion
+- **Context:** trained on C for Data Structures and Algorithms coursework, applying it toward ICPC/ECPC preparation
 
 <br/>
 
-## Coursework & Study-Support Tools
+## Coursework & Study Support Tools
 
-Small tools built to help with specific university subjects — not flagship projects, but real, working, and public.
+Small tools built to help with specific university subjects. Not flagship projects, but real, working, and public.
 
 | Project | Built for | Language |
 |---|---|---|
-| [`Matrix_Wizard`](https://github.com/EzzNasr/Matrix_Wizard_by-EzzNasr) | Linear Algebra — matrix operations solver | Python |
-| [`Inference`](https://github.com/EzzNasr/Inference) | Discrete Structures — automates rules-of-inference proofs | Python |
-| [`Engineering-Prep-Year`](https://github.com/EzzNasr/Engineering-Prep-Year) | Consolidating prep-year study resources | Astro |
+| [`Matrix_Wizard`](https://github.com/EzzNasr/Matrix_Wizard_by-EzzNasr) | Linear Algebra, matrix operations solver | Python |
+| [`Inference`](https://github.com/EzzNasr/Inference) | Discrete Structures, automates rules of inference proofs | Python |
+| [`Engineering-Prep-Year`](https://github.com/EzzNasr/Engineering-Prep-Year) | Consolidating prep year study resources | Astro |
 
 <br/>
 
@@ -143,7 +152,7 @@ Small tools built to help with specific university subjects — not flagship pro
 
 ## Coursework Completed So Far
 
-Programming 0, Programming 1, Programming 2, Data Structures & Algorithms (C), Computer Organization, Logic Design 1 & 2, Control Systems — plus hands-on work in Java, Python, and C++.
+Programming 0, Programming 1, Programming 2, Data Structures and Algorithms (in C), Computer Organization, Logic Design 1 and 2, Control Systems, plus hands on work in Java, Python, and C++.
 
 <br/>
 
@@ -151,9 +160,10 @@ Programming 0, Programming 1, Programming 2, Data Structures & Algorithms (C), C
 
 | Now | Next | Future |
 |---|---|---|
-| Advanced C++ | Docker | Distributed Systems |
-| System Design | AWS | Microservices |
-| PostgreSQL | Redis | Large-scale backend systems |
+| AWS Cloud Practitioner | Docker | Distributed Systems |
+| Advanced C++ | AWS solutions architecture | Microservices |
+| System Design | Redis | Large scale backend systems |
+| PostgreSQL | | |
 
 <br/>
 
@@ -161,20 +171,21 @@ Programming 0, Programming 1, Programming 2, Data Structures & Algorithms (C), C
 
 ```
 2024   Started programming seriously
-2025   Built the first Invoice App iteration · Began Factory ERP
-2026   Shipped Invoice App V2 (React + FastAPI) · Factory ERP feature-complete
-       and in production use · Built NFC Smart Lock (PCB + firmware) · Started
-       ICPC prep · Third-year coursework (DSA, Computer Organization, Logic)
-2028   Expected graduation
-Next   Germany — Master's degree · Open source contributions · Larger backend
-       and systems-level projects
+2025   Built the first Invoice App iteration. Began Factory ERP.
+2026   Shipped Invoice App V2 (React + FastAPI). Factory ERP feature complete
+       and in production use. Built NFC Smart Lock (PCB + firmware). Accepted
+       into the DEPI Scholarship. Started ICPC prep and AWS certification
+       study. Third year coursework: DSA, Computer Organization, Logic.
+2028   Expected graduation.
+Next   Germany, Master's degree. Open source contributions. Larger backend
+       and systems level projects.
 ```
 
 <br/>
 
 ## Open Source Contributions
 
-*Actively looking to contribute — this section will track PRs and issues as they land.*
+*Actively looking to contribute. This section will track PRs and issues as they land.*
 
 <br/>
 
