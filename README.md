@@ -36,7 +36,7 @@ My interests sit at the intersection of backend engineering, embedded systems, a
 
 <br/>
 
-## Certifications & Programs
+## Certifications &amp; Programs
 
 - **DEPI Scholarship**, Digital Egypt Pioneers Initiative, Ministry of Education: accepted
 - **AWS Certified Cloud Practitioner**: in progress, target completion around October 2026
@@ -46,40 +46,40 @@ My interests sit at the intersection of backend engineering, embedded systems, a
 ## Tech Stack
 
 **Languages**
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=c%2B%2B&amp;logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=openjdk&amp;logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&amp;logo=postgresql&amp;logoColor=white)
 
 **Backend**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-0d1117?style=flat-square)
-![Authentication](https://img.shields.io/badge/Authentication-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Authentication](https://img.shields.io/badge/Authentication-0d1117?style=flat-square&amp;logo=jsonwebtokens&amp;logoColor=white)
 ![PDF Generation](https://img.shields.io/badge/PDF%20Generation-0d1117?style=flat-square)
 
 **Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&amp;logo=vite&amp;logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white)
 
 **Database**
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL_(learning)-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&amp;logo=sqlite&amp;logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_(learning)-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white)
 
-**Embedded & Hardware**
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad_PCB_Design-314CB0?style=flat-square&logo=kicad&logoColor=white)
+**Embedded &amp; Hardware**
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&amp;logo=espressif&amp;logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&amp;logo=arduino&amp;logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad_PCB_Design-314CB0?style=flat-square&amp;logo=kicad&amp;logoColor=white)
 ![Falstad](https://img.shields.io/badge/Falstad_Circuit_Sim-0d1117?style=flat-square)
 
-**Documentation & Tools**
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+**Documentation &amp; Tools**
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&amp;logo=latex&amp;logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white)
 
 <br/>
 
@@ -123,7 +123,7 @@ Ongoing algorithmic training on the ICPC track, in C++.
 
 <br/>
 
-## Coursework & Study Support Tools
+## Coursework &amp; Study Support Tools
 
 Small tools built to help with specific university subjects. Not flagship projects, but real, working, and public.
 
@@ -139,12 +139,12 @@ Small tools built to help with specific university subjects. Not flagship projec
 
 <div align="center">
 
-<img src="https://stats.ezznasr.dev/api?username=EzzNasr&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EzzNasr&theme=github-dark-blue&hide_border=true&background=0d1117" height="165"/>
+<img src="https://stats.ezznasr.dev/api?username=EzzNasr&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EzzNasr&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117" height="165"/>
 
-<img src="https://stats.ezznasr.dev/api/top-langs/?username=EzzNasr&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
+<img src="https://stats.ezznasr.dev/api/top-langs/?username=EzzNasr&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EzzNasr&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=238636&point=c9d1d9" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EzzNasr&amp;theme=github-compact&amp;hide_border=true&amp;bg_color=0d1117&amp;color=58a6ff&amp;line=238636&amp;point=c9d1d9" width="98%"/>
 
 </div>
 
@@ -193,8 +193,8 @@ Next   Germany, Master's degree. Open source contributions. Larger backend
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezz-nasr-5a51a3368/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezznasrone@gmail.com)
-[![Website](https://img.shields.io/badge/ezznasr.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ezznasr.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/ezz-nasr-5a51a3368/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:ezznasrone@gmail.com)
+[![Website](https://img.shields.io/badge/ezznasr.dev-000000?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white)](https://ezznasr.dev)
 
 </div>
