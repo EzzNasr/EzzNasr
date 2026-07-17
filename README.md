@@ -6,9 +6,10 @@
 -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:238636&height=200&section=header&text=Ezz%20Nasr&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Computer%20Engineering%20Student%2C%20Comms%20%26%20AI&descAlignY=58&descSize=17" width="100%"/>
-
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,100:238636&amp;height=200&amp;section=header&amp;text=Ezz%20Nasr&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Computer%20Engineering%20Student%2C%20Comms%20%26%20AI&amp;descAlignY=58&amp;descSize=17"
+  width="100%"
+  alt="Ezz Nasr Banner">
 ### Backend-leaning full-stack developer, embedded systems builder, and hardware designer.
 
 <a href="https://www.linkedin.com/in/ezz-nasr-5a51a3368/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white" /></a>
