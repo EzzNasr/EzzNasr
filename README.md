@@ -10,14 +10,13 @@
   src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,100:238636&amp;height=200&amp;section=header&amp;text=Ezz%20Nasr&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Computer%20Engineering%20Student%2C%20Comms%20%26%20AI&amp;descAlignY=58&amp;descSize=17"
   width="100%"
   alt="Ezz Nasr Banner">
+
 ### Backend-leaning full-stack developer, embedded systems builder, and hardware designer.
 
-<a href="https://www.linkedin.com/in/ezz-nasr-5a51a3368/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ezznasrone@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://ezznasr.dev"><img src="https://img.shields.io/badge/Website-0d1117?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-
+<a href="https://www.linkedin.com/in/ezz-nasr-5a51a3368/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&amp;logo=linkedin&amp;logoColor=white" /></a>
+<a href="mailto:ezznasrone@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&amp;logo=gmail&amp;logoColor=white" /></a>
+<a href="https://ezznasr.dev"><img src="https://img.shields.io/badge/Website-0d1117?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" /></a>
 </div>
-
 <br/>
 
 ## About
