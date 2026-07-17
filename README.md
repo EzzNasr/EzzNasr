@@ -139,10 +139,10 @@ Small tools built to help with specific university subjects. Not flagship projec
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=EzzNasr&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
+<img src="https://stats.ezznasr.dev/api?username=EzzNasr&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EzzNasr&theme=github-dark-blue&hide_border=true&background=0d1117" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzzNasr&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
+<img src="https://stats.ezznasr.dev/api/top-langs/?username=EzzNasr&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=EzzNasr&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=238636&point=c9d1d9" width="98%"/>
 
