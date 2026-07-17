@@ -23,7 +23,7 @@
 
 Third-year Computer Engineering student at Alexandria University, specializing in Computer Communications and Artificial Intelligence, expected to graduate in 2028. I build complete, working software rather than isolated coursework demos — every project below has a public repository (or a documented release) behind it, so the claims here are checkable, not just stated.
 
-My interests sit at the intersection of **backend engineering**, **embedded systems**, and **hardware design**: I write the software stack (FastAPI/React APIs and databases) as comfortably as I lay out the PCB and firmware underneath it. I also prepare technical documentation in LaTeX — reference material, cookbooks, and formal write-ups — because I'd rather over-document a project than leave it unreadable to the next person.
+My interests sit at the intersection of **backend engineering**, **embedded systems**, and **hardware design**: I write the software stack (FastAPI/React APIs and databases) as comfortably as I lay out the PCB and firmware underneath it. I also prepare technical documentation in LaTeX — reference material, cookbooks, and formal write-ups  because I'd rather over-document a project than leave it unreadable to the next person.
 
 **Current focus**
 - Refactoring Factory ERP for public release (already in live use at a manufacturing business)
