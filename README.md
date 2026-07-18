@@ -1,9 +1,4 @@
-<!--
-  GitHub Profile README: Ezz Nasr
-  Lives in the repo: github.com/EzzNasr/EzzNasr/README.md
-  TODO before pushing: replace the Invoice App V2 repo link placeholder
-  (marked below) once you confirm its exact repo name/URL.
--->
+
 
 <div align="center">
 
@@ -105,7 +100,7 @@ Professional invoice management system, built end to end and shipped with tagged
 - **Stack:** FastAPI, React, Vite, SQLite
 - **Status:** complete, published with releases
 
-[`Repo`](https://github.com/EzzNasr/invoice-app-v2) <!-- TODO: confirm exact repo name/URL --> · Earlier CLI/GUI iteration: [`The-invioce-app-`](https://github.com/EzzNasr/The-invioce-app-)
+[`Repo`](https://github.com/EzzNasr/invoice_app_v2)· Earlier CLI/GUI iteration: [`The-invioce-app-`](https://github.com/EzzNasr/The-invioce-app-)
 
 ---
 
