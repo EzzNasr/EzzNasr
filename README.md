@@ -100,7 +100,7 @@ Professional invoice management system, built end to end and shipped with tagged
 - **Stack:** FastAPI, React, Vite, SQLite
 - **Status:** complete, published with releases
 
-[`Repo`](https://github.com/EzzNasr/the_invoice_app_V2)· Earlier CLI/GUI iteration: [`The-invioce-app-`](https://github.com/EzzNasr/The-invioce-app-)
+[`Repo`](https://github.com/EzzNasr/invoice_app_v2)· Earlier CLI/GUI iteration: [`The-invioce-app-`](https://github.com/EzzNasr/The-invioce-app-)
 
 ---
 
